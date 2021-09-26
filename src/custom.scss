@@ -1,0 +1,26 @@
+$body-bg: #f1faee;
+$input-focus-border-color: #1d3557;
+$input-btn-focus-color: #1d3557;
+$input-border-color: #1d3557;
+$border-radius: 0.8rem;
+$input-bg: #f1faee;
+$input-color: #1d3557;
+$input-border-width: 0rem;
+$primary: #1d3557;
+$card-bg: #f1faee;
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #1d3557;
+  color: white;
+  text-align: center;
+}
+
+::-webkit-input-placeholder {
+  text-align: center;
+}
+
+@import "~bootstrap/scss/bootstrap.scss";
