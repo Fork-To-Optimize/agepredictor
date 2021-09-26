@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/funagepredictor/static/css/main.89949e6f.chunk.css",
-    "main.js": "/funagepredictor/static/js/main.f87e1f81.chunk.js",
-    "main.js.map": "/funagepredictor/static/js/main.f87e1f81.chunk.js.map",
-    "runtime-main.js": "/funagepredictor/static/js/runtime-main.5ddd97fc.js",
-    "runtime-main.js.map": "/funagepredictor/static/js/runtime-main.5ddd97fc.js.map",
-    "static/js/2.62d34023.chunk.js": "/funagepredictor/static/js/2.62d34023.chunk.js",
-    "static/js/2.62d34023.chunk.js.map": "/funagepredictor/static/js/2.62d34023.chunk.js.map",
-    "static/js/3.045cfa42.chunk.js": "/funagepredictor/static/js/3.045cfa42.chunk.js",
-    "static/js/3.045cfa42.chunk.js.map": "/funagepredictor/static/js/3.045cfa42.chunk.js.map",
-    "index.html": "/funagepredictor/index.html",
-    "static/css/main.89949e6f.chunk.css.map": "/funagepredictor/static/css/main.89949e6f.chunk.css.map",
-    "static/js/2.62d34023.chunk.js.LICENSE.txt": "/funagepredictor/static/js/2.62d34023.chunk.js.LICENSE.txt",
-    "static/media/Untitled design.b3358fd2.svg": "/funagepredictor/static/media/Untitled design.b3358fd2.svg"
+    "main.css": "/agepredictor/static/css/main.89949e6f.chunk.css",
+    "main.js": "/agepredictor/static/js/main.f87e1f81.chunk.js",
+    "main.js.map": "/agepredictor/static/js/main.f87e1f81.chunk.js.map",
+    "runtime-main.js": "/agepredictor/static/js/runtime-main.5d049958.js",
+    "runtime-main.js.map": "/agepredictor/static/js/runtime-main.5d049958.js.map",
+    "static/js/2.62d34023.chunk.js": "/agepredictor/static/js/2.62d34023.chunk.js",
+    "static/js/2.62d34023.chunk.js.map": "/agepredictor/static/js/2.62d34023.chunk.js.map",
+    "static/js/3.045cfa42.chunk.js": "/agepredictor/static/js/3.045cfa42.chunk.js",
+    "static/js/3.045cfa42.chunk.js.map": "/agepredictor/static/js/3.045cfa42.chunk.js.map",
+    "index.html": "/agepredictor/index.html",
+    "static/css/main.89949e6f.chunk.css.map": "/agepredictor/static/css/main.89949e6f.chunk.css.map",
+    "static/js/2.62d34023.chunk.js.LICENSE.txt": "/agepredictor/static/js/2.62d34023.chunk.js.LICENSE.txt",
+    "static/media/Untitled design.b3358fd2.svg": "/agepredictor/static/media/Untitled design.b3358fd2.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5ddd97fc.js",
+    "static/js/runtime-main.5d049958.js",
     "static/js/2.62d34023.chunk.js",
     "static/css/main.89949e6f.chunk.css",
     "static/js/main.f87e1f81.chunk.js"
